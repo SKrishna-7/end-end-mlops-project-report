@@ -114,7 +114,7 @@ By experimenting with multiple models and fine-tuning hyperparameters, I was abl
 
 This pipeline not only automates the machine learning lifecycle but also makes it easier to deploy, monitor, and update the models as new data becomes available.
 
-## For Complete Source Code Contact ME..!
+## Interested in the full source code? Feel free to reach out!
 
 ## Authors
 [@SureshKrishnan](https://github.com/SKrishna-7)
